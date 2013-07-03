@@ -1,4 +1,4 @@
 starry-sky
 ==========
 
-I love the starry sky on my head.:)
+I love the starry sky over my head.:)
